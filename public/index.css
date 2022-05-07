@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+.message {
+    background: yellow;
+    padding: 10px;
+}
+
+a.filename {
+    width: 80%;
+    display: inline-block
+}
+
+p.user {
+    font-style: italic;
+}
